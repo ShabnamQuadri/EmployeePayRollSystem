@@ -1,7 +1,7 @@
 
 # 🧾 Employee Payroll System in Java
 
-Welcome to the **Employee Payroll System** — a terminal-based Java project that demonstrates key Object-Oriented Programming (OOP) principles in action. This project is perfect for learners who want to understand how abstraction, inheritance, encapsulation, and polymorphism are applied in real-world applications.
+Welcome to the **Employee Payroll System** a terminal-based Java project that demonstrates key Object-Oriented Programming (OOP) principles in action. This project is perfect for learners who want to understand how abstraction, inheritance, encapsulation, and polymorphism are applied in real-world applications.
 
 ---
 
